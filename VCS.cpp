@@ -1,3 +1,5 @@
+
+// Version Control System Code Chef Problem 
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -28,7 +30,7 @@ int main() {
 	    }
 	    for(int i=0;i<v.size();i++)
 	    {
-	        m[v[i]]++;
+	        m[v[i]]++;    // frequency Count 
 	    }
 	    for(int i=0;i<v1.size();i++)
 	    {
